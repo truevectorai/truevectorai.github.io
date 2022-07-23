@@ -6,7 +6,9 @@
 
 body {
 /*	background-color: #66aaff; */
-	background-image: url("stipple.jpg");
+	background-image: url("jameswebb.jpg");
+	background-repeat: no-repeat;
+	background-size: auto;
 	margin: 0px;
 }
 
