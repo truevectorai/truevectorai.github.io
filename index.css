@@ -8,7 +8,7 @@ body {
 /*	background-color: #66aaff; */
 	background-image: url("jameswebb.jpg");
 	background-repeat: no-repeat;
-	background-size: auto;
+	background-size: contain;
 	margin: 0px;
 }
 
