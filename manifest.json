@@ -5,5 +5,13 @@
 	"name": "truevector&#183ai",
 	"short_name": "truevector&#183ai",
 	"start_url": ".",
-	"theme_color": "#111111"
+	"theme_color": "#111111",
+	"icons": [
+		{
+			"src": "truevector.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	]
 }
