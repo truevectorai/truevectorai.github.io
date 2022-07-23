@@ -14,3 +14,7 @@ body {
 	place-items: center;
 	min-height: 100vh;
 }
+
+.light {
+	font-weight: 50%;
+}
