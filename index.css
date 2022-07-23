@@ -13,6 +13,7 @@ body {
 }
 
 .center {
+	color: #888888;
 	display: grid;
 	place-items: center;
 	min-height: 100vh;
