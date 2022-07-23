@@ -16,5 +16,8 @@ body {
 	display: grid;
 	place-items: center;
 	min-height: 100vh;
+}
+
+.center:after {
 	mix-blend-mode: difference;
 }
