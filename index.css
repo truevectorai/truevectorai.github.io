@@ -5,9 +5,11 @@
 }
 
 body {
-/*	background-color: #66aaff; */
-	background-image: url("jameswebb.jpg");
+/*
+	background-color: #66aaff; 
 	background-repeat: no-repeat;
+*/
+	background-image: url("jameswebb.jpg");
 	background-size: cover;
 	margin: 0px;
 }
