@@ -1,0 +1,16 @@
+* {
+	color: #888888;
+	font-family: sans-serif;
+	text-decoration: none;
+}
+
+body {
+	background-color: #111111;
+	margin: 0px;
+}
+
+.center {
+	display: grid;
+	place-items: center;
+	min-height: 100vh;
+}

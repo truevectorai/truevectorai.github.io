@@ -1,0 +1,9 @@
+{
+	"background_color": "#111111",
+	"description": "jomini",
+	"display": "standalone",
+	"name": "truevector&#183ai",
+	"short_name": "truevector&#183ai",
+	"start_url": ".",
+	"theme_color": "#111111"
+}
