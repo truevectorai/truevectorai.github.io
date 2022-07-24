@@ -23,6 +23,7 @@ body {
 }
 
 .label {
-	padding: 0.25em;
+	padding: 0.125em;
+	border-radius: 0.125em;
 	background-color: #111111;
 }
