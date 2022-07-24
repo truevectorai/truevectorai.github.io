@@ -18,12 +18,8 @@ body {
 	min-height: 100vh;
 }
 
-.center:after {
-	mix-blend-mode: difference;
-}
-
 .label {
 	padding: 0.125em 0.250em 0.125em 0.25em;
-	border-radius: 0.5em;
+	border-radius: 0.25em;
 	background-color: #111111;
 }
