@@ -21,3 +21,8 @@ body {
 .center:after {
 	mix-blend-mode: difference;
 }
+
+.label {
+	padding: 0.25em;
+	background-color: #111111;
+}
