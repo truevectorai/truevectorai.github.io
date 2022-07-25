@@ -10,9 +10,15 @@ body {
 	margin: 0px;
 }
 
-.center {
+.header {
 	display: grid;
+	width: auto;
+	background-color: transparent;
 	place-items: center;
+}
+
+.header:hover {
+	background-color: #222222;
 }
 
 .splash {
