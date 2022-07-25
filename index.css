@@ -11,6 +11,11 @@ body {
 }
 
 .center {
+	display: grid;
+	place-items: center;
+}
+
+.splash {
 	color: #888888;
 	font-size: 200%;
 	display: grid;
