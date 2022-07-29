@@ -8,8 +8,8 @@
 	"theme_color": "#111111",
 	"icons": [
 		{
-			"src": "truevector.png",
-			"sizes": "512x512",
+			"src": "spiff.png",
+			"sizes": "900x600",
 			"type": "image/png",
 			"purpose": "any maskable"
 		}
