@@ -9,7 +9,7 @@
 	"icons": [
 		{
 			"src": "spiff.png",
-			"sizes": "900x600",
+			"sizes": "1024x1024",
 			"type": "image/png",
 			"purpose": "any maskable"
 		}
