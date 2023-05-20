@@ -1,6 +1,7 @@
 project:
   title: "true&middot;vector"
   type: website
+  output-dir: website
   preview:
     port: 9999
 
