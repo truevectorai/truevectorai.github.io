@@ -1,0 +1,17 @@
+{
+	"background_color": "#111111",
+	"description": "truevector&#183ai",
+	"display": "standalone",
+	"name": "truevector&#183ai",
+	"short_name": "truevector&#183ai",
+	"start_url": ".",
+	"theme_color": "#111111",
+	"icons": [
+		{
+			"src": "spiff.png",
+			"sizes": "1024x1024",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	]
+}

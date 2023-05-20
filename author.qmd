@@ -1,0 +1,4 @@
+---
+title: "author"
+---
+![](kuzco.png){fig-align="center"}
