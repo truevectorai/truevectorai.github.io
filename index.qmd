@@ -13,7 +13,7 @@ title: "_"
 In navigation the speed and direction of a target relative to a reference point (usually the Geographic [true] North Pole) is called its *true vector*.  To calcuate this an observer generally measures the velocity of the target relative to the observer and then performs a translation of that vector to the reference point.  This could be likened in machine learning (well, at least by me) to attempting to determine the "goldilocks" (neither underfit nor overfit) prediction curve by application of optimization algorithms to datasets of observations.
 :::
 
-Here are multiple passes at meandering musings, including but not limited to the rather broad field of [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) along with its various foci of effort. 
+Multiple passes of meandering musings, including but not limited to the rather broad field of [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) along with its various foci of effort. 
 
 ![](leeloo.jpg){fig-align="center" width="50%"}
 
