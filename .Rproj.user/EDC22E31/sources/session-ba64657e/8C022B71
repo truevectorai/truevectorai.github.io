@@ -3,7 +3,7 @@
     "path": "~/apps/github.com/truevectorai/truevector/reasoning.qmd",
     "project_path": "reasoning.qmd",
     "type": "quarto_markdown",
-    "hash": "95343588",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1684632810541.0,
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "5,4",
+        "cursorPosition": "4,0",
         "scrollLine": "0",
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -21,11 +21,11 @@
         "rmdVisualModeLocation": "182:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684705447,
+    "lastKnownWriteTime": 1684705500,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684705447297,
+    "last_content_update": 1684705500332,
     "read_only": false,
     "read_only_alternatives": []
 }
