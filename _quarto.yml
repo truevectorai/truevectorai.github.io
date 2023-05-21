@@ -16,10 +16,11 @@ website:
           - machine-learning.qmd
 
 format:
-  html:
-    css: styles.css
-    html-math-method: mathml
-    theme: superhero
-    toc: true
-    toc-expand: 1
-    toc-location: left
+   html:
+      css: styles.css
+      html-math-method: mathml
+      theme: superhero
+      toc: true
+      toc-expand: 1
+      toc-location: left
+      link-external-newwindow: true
