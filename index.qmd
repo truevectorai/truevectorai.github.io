@@ -1,5 +1,5 @@
 ---
-title: "_"
+title: "true&middot;vector"
 ---
 <style>
 .quarto-title > h1.title {
