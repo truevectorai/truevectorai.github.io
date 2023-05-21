@@ -3,7 +3,7 @@
     "path": "~/apps/github.com/truevectorai/truevector/machine-learning.qmd",
     "project_path": "machine-learning.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "232804895",
     "contents": "",
     "dirty": false,
     "created": 1684615084875.0,
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,0",
+        "cursorPosition": "8,0",
         "scrollLine": "0",
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -21,11 +21,11 @@
         "rmdVisualModeLocation": "170:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684630143,
+    "lastKnownWriteTime": 1684630432,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684630143457,
+    "last_content_update": 1684630432087,
     "read_only": false,
     "read_only_alternatives": []
 }
