@@ -13,8 +13,12 @@ website:
     contents:
       - section: "ai"
         contents:
+         - affective.qmd
+         - general.qmd
          - knowledge.qmd
+         - language.qmd
          - learning.qmd
+         - perception.qmd
          - reasoning.qmd
 
 format:

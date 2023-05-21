@@ -1,6 +1,9 @@
 ---
 title: "author"
 ---
+
 <br>
+
 <center>![](kuzco.png){fig-align="center" width="50%"}</center>
+
 <br>

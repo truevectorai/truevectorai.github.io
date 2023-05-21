@@ -3,7 +3,7 @@ title: "reasoning"
 bibliography: references.json
 ---
 
-![](turing.jpg){fig-align="center" width="50%"}
+<center>![](turing.jpg){fig-align="center" width="50%"}</center>
 
 In [@turing1950] *Alan Turing* came up with his eponymous *Turing Test* by rewriting his opening question "Can machines think?"
 
