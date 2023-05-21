@@ -1,0 +1,17 @@
+{
+	"background_color": "#111111",
+	"description": "true vector",
+	"display": "standalone",
+	"name": "true vector",
+	"short_name": "true vector ai",
+	"start_url": ".",
+	"theme_color": "#111111",
+	"icons": [
+		{
+			"src": "gradient.jpg",
+			"sizes": "600x400",
+			"type": "image/jpg",
+			"purpose": "any maskable"
+		}
+	]
+}
