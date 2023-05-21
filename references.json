@@ -73,5 +73,43 @@
         "title": "I.—COMPUTING MACHINERY AND INTELLIGENCE",
         "type": "article-journal",
         "volume": "LIX"
+    },
+    {
+        "DOI": "10.1037/1089-2680.2.2.175",
+        "ISSN": "1089-2680",
+        "URL": "http://dx.doi.org/10.1037/1089-2680.2.2.175",
+        "author": [
+            {
+                "family": "Nickerson",
+                "given": "Raymond S."
+            }
+        ],
+        "container-title": "Review of General Psychology",
+        "container-title-short": "Review of General Psychology",
+        "id": "nickerson1998",
+        "is-referenced-by-count": "3314",
+        "issue": "2",
+        "issued": {
+            "date-parts": [
+                [
+                    1998,
+                    6
+                ]
+            ]
+        },
+        "language": "en",
+        "member": "179",
+        "page": "175-220",
+        "prefix": "10.1177",
+        "providerkey": "doi",
+        "publisher": "SAGE Publications",
+        "reference-count": "291",
+        "references-count": "291",
+        "score": "1",
+        "source": "Crossref",
+        "subject": "General Psychology",
+        "title": "Confirmation Bias: A Ubiquitous Phenomenon in Many Guises",
+        "type": "article-journal",
+        "volume": "2"
     }
 ]

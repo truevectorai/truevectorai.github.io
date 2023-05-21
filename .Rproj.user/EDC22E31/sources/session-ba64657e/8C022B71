@@ -3,7 +3,7 @@
     "path": "~/apps/github.com/truevectorai/truevector/reasoning.qmd",
     "project_path": "reasoning.qmd",
     "type": "quarto_markdown",
-    "hash": "3054966310",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1684632810541.0,
@@ -16,7 +16,7 @@
         "scrollLine": "6",
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
-        "docOutlineVisible": "1",
+        "docOutlineVisible": "0",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "182:0"
     },

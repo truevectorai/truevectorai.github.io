@@ -3,6 +3,9 @@ html {
 	scrollbar-width: thin;
 }
 
+body {
+}
+
 a {
 	text-decoration: none;
 	padding-left: 2px;
