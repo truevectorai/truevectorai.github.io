@@ -1,5 +1,5 @@
 html {
-	overflow-y: none;
+	overflow-y: scroll;
 	scrollbar-width: thin;
 }
 
