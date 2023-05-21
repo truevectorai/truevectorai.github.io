@@ -1,0 +1,11 @@
+{
+  "hash": "8b9f1da0f00941fecd98150a6a7f2410",
+  "result": {
+    "markdown": "---\ntitle: \"author\"\n---\n\n![](kuzco.png){fig-align=\"center\"}\n\n\n```{html}\n<iframe src=\"https://www.linkedin.com/in/wehrv/\" width=\"66%\" height=\"100%\" title=\"LinkedIn\"></iframe>\n  ```\n\n",
+    "supporting": [
+      "author_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

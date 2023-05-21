@@ -1,0 +1,25 @@
+project:
+  title: "true&middot;vector"
+  type: website
+  output-dir: docs
+  preview:
+    port: 9999
+
+website:
+  favicon: "spiff.png"
+  sidebar:
+    style: "floating"
+    search: false
+    contents:
+      - section: "ai"
+        contents:
+          - machine-learning.qmd
+
+format:
+  html:
+    css: styles.css
+    html-math-method: mathml
+    theme: superhero
+    toc: true
+    toc-expand: 1
+    toc-location: left

@@ -1,0 +1,18 @@
+{
+  "index.qmd": {
+    "index.html": "fc0686cc"
+  },
+  "about.qmd": {
+    "about.html": "3e08c260"
+  },
+  "author.qmd": {
+    "author.html": "bab1434f",
+    "author.tex": "ad1e4f1b"
+  },
+  "ai.qmd": {
+    "ai.html": "996d7df2"
+  },
+  "machine-learning.qmd": {
+    "machine-learning.html": "720d0d0c"
+  }
+}
