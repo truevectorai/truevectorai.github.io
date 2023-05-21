@@ -3,7 +3,7 @@
     "path": "~/apps/github.com/truevectorai/truevector/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "2826063215",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1684536531514.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "107,0",
-        "scrollLine": "104",
+        "cursorPosition": "9,18",
+        "scrollLine": "0",
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "1",
@@ -21,11 +21,11 @@
         "rmdVisualModeLocation": "67:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684704835,
+    "lastKnownWriteTime": 1684705004,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684704835644,
+    "last_content_update": 1684705004353,
     "read_only": false,
     "read_only_alternatives": []
 }
