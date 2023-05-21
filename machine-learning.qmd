@@ -1,8 +1,0 @@
----
-title: "machine learning"
-bibliography: references.json
----
-
-The earliest use I've found of the term [machine learning](https://en.wikipedia.org/wiki/Machine_learning) is in the title of a paper [@samuel1959] which opens with:
-
-> "The studies reported here have been concerned with the programming of a digital computer to behave in a way which, if done by human beings or animals, would be described as involving the process of learning."

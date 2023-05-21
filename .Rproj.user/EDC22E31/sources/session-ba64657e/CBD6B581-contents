@@ -13,7 +13,8 @@ website:
     contents:
       - section: "ai"
         contents:
-          - machine-learning.qmd
+         - learning.qmd
+         - reasoning.qmd
 
 format:
    html:

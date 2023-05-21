@@ -14,5 +14,11 @@
   },
   "machine-learning.qmd": {
     "machine-learning.html": "720d0d0c"
+  },
+  "reasoning.qmd": {
+    "reasoning.html": "71b88106"
+  },
+  "learning.qmd": {
+    "learning.html": "f1c22766"
   }
 }
