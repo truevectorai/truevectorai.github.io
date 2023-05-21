@@ -13,6 +13,7 @@ website:
     contents:
       - section: "ai"
         contents:
+         - knowledge.qmd
          - learning.qmd
          - reasoning.qmd
 

@@ -3,7 +3,7 @@
     "path": "~/apps/github.com/truevectorai/truevector/learning.qmd",
     "project_path": "learning.qmd",
     "type": "quarto_markdown",
-    "hash": "681266098",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1684635545977.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "10,209",
-        "scrollLine": "6"
+        "cursorPosition": "3,0",
+        "scrollLine": "0"
     },
     "folds": "",
     "lastKnownWriteTime": 1684636120,

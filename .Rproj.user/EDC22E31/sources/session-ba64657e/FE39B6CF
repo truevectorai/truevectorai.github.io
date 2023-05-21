@@ -3,7 +3,7 @@
     "path": "~/apps/github.com/truevectorai/truevector/styles.css",
     "project_path": "styles.css",
     "type": "css",
-    "hash": "3191730038",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1684536762376.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "6,0",
-        "scrollLine": "0"
+        "cursorPosition": "27,1",
+        "scrollLine": "2"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684704680,
+    "lastKnownWriteTime": 1684709841,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684704680046,
+    "last_content_update": 1684709841377,
     "read_only": false,
     "read_only_alternatives": []
 }
