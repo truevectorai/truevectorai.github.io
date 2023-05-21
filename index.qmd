@@ -15,7 +15,6 @@ bibliography: references.json
 
 ::: {.callout-note collapse="true"}
 # Multiple passes...
-
 ![](leeloo.jpg){fig-align="center" width="50%"}
 :::
 
@@ -23,7 +22,6 @@ bibliography: references.json
 
 ::: {.callout-note collapse="true"}
 # The meandering muser...
-
 <center>[![](hero-shot.png){fig-align="center" width="50%"}](author.qmd)...</center>
 :::
 
@@ -31,7 +29,6 @@ bibliography: references.json
 
 ::: {.callout-note collapse="true"}
 # on specialists
-
 "The dilemma is this. In the modern world knowledge has been growing so fast and so enormously, in almost every field, that the probabilities are immensely against anybody, no matter how innately clever, being able to make a contribution in any one field unless he devotes all his time to it for years. If he tries to be the Rounded Universal Man, like Leonardo da Vinci, or to take all knowledge for his province, like Francis Bacon, he is most likely to become a mere dilettante and dabbler. But if he becomes too specialized, he is apt to become narrow and lopsided, ignorant on every subject but his own, and perhaps dull and sterile even on that because he lacks perspective and vision and has missed the cross-fertilization of ideas that can come from knowing something of other subjects."
 
 [Henry Hazlitt](https://en.wikipedia.org/wiki/Henry_Hazlitt)
@@ -39,7 +36,6 @@ bibliography: references.json
 
 ::: {.callout-note collapse="true"}
 # on generalists
-
 "A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."
 
 [Lazurus Long](https://en.wikipedia.org/wiki/Lazarus_Long) as written by [Robert Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein) in [Time Enough for Love](https://en.wikipedia.org/wiki/Time_Enough_for_Love)
@@ -47,8 +43,7 @@ bibliography: references.json
 
 ::: {.callout-note collapse="true"}
 # a lot of a little and a little of a lot
-
-Specialized Generalist - aka one who cannot make up his mind...
+*specialized generalist* - aka one who cannot make up his mind...
 
 "These are the principles for the development of a complete mind: Study the science of art. Study the art of science. Learn to see. Realize that everything connects to everything else."
 
@@ -63,7 +58,6 @@ Without a broad foundation, it's facile to slide into [confirmation bias](https:
 
 ::: {.callout-note collapse="true"}
 # err...wikipedia?
-
 The astute reader will notice the occasional academic *faux pas* of linking to Wikipedia article.  What contrarian blush has come over the author?
 
 > HD: When I use a word, it means just what I choose it to mean---neither more nor less.<br> AL: The question is, whether you can make words mean different things.<br> HD: The question is, which is to be master---that's all. Impenetrability! That's what I say!
