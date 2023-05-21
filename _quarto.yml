@@ -6,7 +6,7 @@ project:
     port: 9999
 
 website:
-  favicon: "spiff.png"
+  favicon: "gradient.jpg"
   sidebar:
     style: "floating"
     search: false

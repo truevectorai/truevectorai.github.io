@@ -3,7 +3,7 @@
     "path": "~/apps/github.com/truevectorai/truevector/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "1558187776",
+    "hash": "1000074539",
     "contents": "",
     "dirty": false,
     "created": 1684627788446.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,21",
+        "cursorPosition": "8,24",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684705748,
+    "lastKnownWriteTime": 1684706346,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684705748453,
+    "last_content_update": 1684706346056,
     "read_only": false,
     "read_only_alternatives": []
 }
