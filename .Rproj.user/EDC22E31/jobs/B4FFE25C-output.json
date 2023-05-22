@@ -84,3 +84,8 @@
 [1,"\u001B[1mpandoc \u001B[22m\n  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: true·vector\n  section-divs: true\n  html-math-method: mathml\n  wrap: none\n  default-image-extension: png\n  css:\n    - /styles.css\n  toc: true\n  \n\u001B[1mmetadata\u001B[22m\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme: superhero\n  toc-expand: 1\n  toc-location: left\n  title: true·vector\n  bibliography:\n    - references.json\n  \n"]
 [1,"Output created: docs/index.html\n\n\u001B[32mWatching files for changes\u001B[39m\n"]
 [1,"\u001B[32mGET: /\u001B[39m\n"]
+[1,"\u001B[32mGET: /ai/language/language.html\u001B[39m\n"]
+[1,"\u001B[32mGET: /ai/learning/learning.html\u001B[39m\n"]
+[1,"\u001B[1mpandoc \u001B[22m\n  to: html\n  output-file: index-wikipedia.html\n  standalone: true\n  title-prefix: true·vector\n  section-divs: true\n  html-math-method: mathml\n  wrap: none\n  default-image-extension: png\n  css:\n    - /styles.css\n  toc: true\n  \n\u001B[1mmetadata\u001B[22m\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme: superhero\n  toc-expand: 1\n  toc-location: left\n  \n"]
+[1,"Output created: ../../docs/index/wikipedia/index-wikipedia.html\n\n\u001B[32mWatching files for changes\u001B[39m\n"]
+[1,"\u001B[32mGET: /index/wikipedia/index-wikipedia.html\u001B[39m\n"]
