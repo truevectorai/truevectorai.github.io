@@ -3,7 +3,7 @@
     "path": "~/apps/github.com/truevectorai/truevector/affective.qmd",
     "project_path": "affective.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "619170826",
     "contents": "",
     "dirty": false,
     "created": 1684711501968.0,
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "7,198",
+        "cursorPosition": "5,52",
         "scrollLine": "0",
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -21,11 +21,11 @@
         "rmdVisualModeLocation": "107:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684713921,
+    "lastKnownWriteTime": 1684775935,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684713921627,
+    "last_content_update": 1684775935013,
     "read_only": false,
     "read_only_alternatives": []
 }

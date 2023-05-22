@@ -2,9 +2,7 @@
 title: "knowledge"
 bibliography: references.json
 ---
-
-<center>![](feigenbaum.jpg){fig-align="center" width="50%"}]</center>
-<br>
-In what the paywalled citation references and appears to be a republishing of his [1980 paper](https://stacks.stanford.edu/file/druid:cn981xh0967/cn981xh0967.pdf) of the same name in the Stanford archives, [Edward Feigenbaum](https://en.wikipedia.org/wiki/Edward_Feigenbaum) coins the term *Knowledge Engineering*, and discusses symbolic computation and inference, and makes the distinctions about the *facts* vs the *heuristics* of a domain, and that the application of expert-rules, or as he aptly shares from George Polya, "the art of good guessing" are what constitute the rules of good practice, judgment, and expertise.
-
-[@feigenbaum1984]
+<p>
+<center>![](feigenbaum.jpg){fig-align="center" width="66%"}</center>
+<p>
+In what the paywalled citation [@feigenbaum1984] references and appears to be a republishing of his [1980 paper](https://stacks.stanford.edu/file/druid:cn981xh0967/cn981xh0967.pdf) of the same name in the Stanford archives, [Edward Feigenbaum](https://en.wikipedia.org/wiki/Edward_Feigenbaum) coins the term *Knowledge Engineering*, and discusses symbolic computation and inference, and makes the distinctions about the *facts* vs the *heuristics* of a domain, and that the application of expert-rules, or as he aptly shares from George Polya, "the art of good guessing" are what constitute the rules of good practice, judgment, and expertise.
