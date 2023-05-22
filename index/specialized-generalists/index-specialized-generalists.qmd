@@ -1,0 +1,25 @@
+::: {.callout-note collapse="true"}
+# a lot of a little and a little of a lot
+
+::: {.center}
+*specialized-generalist*: one who cannot make up his mind...
+:::
+
+::: {.justify}
+> These are the principles for the development of a complete mind: Study the science of art. Study the art of science. Learn to see. Realize that everything connects to everything else.
+
+::: {.attribute}
+[Leonardo da Vinci](https://philosophynow.org/issues/134/The_Mind_of_Leonardo_da_Vinci)</p>
+:::
+:::
+
+::: {.justify}
+> I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail.
+
+::: {.attribute}
+[Maslow's Hammer](https://en.wiktionary.org/wiki/Maslow%27s_hammer#English)
+:::
+:::
+
+<p>Without a broad foundation, it's facile to slide into [confirmation bias](https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175) by "seeking or interpreting of evidence in ways that are partial to existing beliefs".</p>
+:::

@@ -1,0 +1,7 @@
+## math
+
+A *true vector* or polar vector is a representation of a vector as a magnitude (length) and angle, which is equivalent to specifying its endpoints in polar coordinates.
+
+::: {style="background-color:white"}
+<p><center>![](polar-math.svg){fig-align="center" width="50%"}</center></p>
+:::

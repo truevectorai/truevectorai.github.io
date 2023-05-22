@@ -1,0 +1,7 @@
+## ai
+
+<p>A *true vector* as defined in the *navigation* tab could be likened in machine learning (well, at least by me) to attempting to determine the "goldilocks" (neither underfit nor overfit) prediction path by application of optimization algorithms to datasets of observations.</p>
+
+::: {style="background-color:white"}
+<p><center>![](gradient.jpg){fig-align="center" width="50%"}</center></p>
+:::

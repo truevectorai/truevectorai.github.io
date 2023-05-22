@@ -1,0 +1,32 @@
+html {
+	overflow-y: scroll;
+	scrollbar-width: thin;
+}
+
+body {
+}
+
+a {
+	text-decoration: none;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+
+em {
+	color: #888800;
+	font-style: normal;
+		padding-left: 2px;
+	padding-right: 2px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #008888;
+}
+
+img {
+   border-radius: 4px;
+}
+
+.justify {
+  text-align: justify !important
+}

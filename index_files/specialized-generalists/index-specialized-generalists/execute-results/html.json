@@ -1,0 +1,11 @@
+{
+  "hash": "8b396fd0056331b70478881643e5418a",
+  "result": {
+    "markdown": "---\ntitle: a lot of a little and a little of a lot\n---\n\n\n::: {.callout-note collapse=\"true\"}\n\n\n````{html}\n<center>*specialized generalist* - aka one who cannot make up his mind...</center>\n```\n\n\n::: {.justify}\n> These are the principles for the development of a complete mind: Study the science of art. Study the art of science. Learn to see. Realize that everything connects to everything else.\n\n::: {.attribute}\n[Leonardo da Vinci](https://philosophynow.org/issues/134/The_Mind_of_Leonardo_da_Vinci)</p>\n:::\n:::\n\n::: {.justify}\n> I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail.\n\n::: {.attribute}\n[Maslow's Hammer](https://en.wiktionary.org/wiki/Maslow%27s_hammer#English)\n:::\n:::\n\n<p>Without a broad foundation, it's facile to slide into [confirmation bias](https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175) by \"seeking or interpreting of evidence in ways that are partial to existing beliefs\".</p>\n:::\n\n\n",
+    "supporting": [
+      "index-specialized-generalists_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

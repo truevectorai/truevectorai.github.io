@@ -35,5 +35,98 @@
   },
   "affective.qmd": {
     "affective.html": "4072235f"
+  },
+  "index/index-muse.qmd": {
+    "index-muse.html": "ebc00952"
+  },
+  "index/index-quote.qmd": {
+    "index-quote.html": "f579d034"
+  },
+  "index/index-style.qmd": {
+    "index-style.html": "aa5e396a"
+  },
+  "index/index-pass.qmd": {
+    "index-pass.html": "e02b6aef"
+  },
+  "index/index-specialists.qmd": {
+    "index-specialists.html": "57e7949f"
+  },
+  "index/index-generalists.qmd": {
+    "index-generalists.html": "bd72402f"
+  },
+  "index/index-specialized-generalist.qmd": {
+    "index-specialized-generalist.html": "39e22964"
+  },
+  "index/index-wikipedia.qmd": {
+    "index-wikipedia.html": "9e5f099d"
+  },
+  "index/index-ping.qmd": {
+    "index-ping.html": "8787cc74"
+  },
+  "index/ping/index-ping-ai.qmd": {
+    "index-ping-ai.html": "3912fb67"
+  },
+  "index/ping/index-ping-math.qmd": {
+    "index-ping-math.html": "f9702d95"
+  },
+  "index/ping/index-ping-navigation.qmd": {
+    "index-ping-navigation.html": "3c87235a"
+  },
+  "index/ping/index-ping-physics.qmd": {
+    "index-ping-physics.html": "feecdf42"
+  },
+  "index/index-index.qmd": {
+    "index-index.html": "839568ec"
+  },
+  "index/quote/index-quote.qmd": {
+    "index-quote.html": "01a72af8"
+  },
+  "index/ping/index-ping.qmd": {
+    "index-ping.html": "e6811b47"
+  },
+  "index/wikipedia/index-wikipedia.qmd": {
+    "index-wikipedia.html": "f67e0ec6"
+  },
+  "index/muse/index-muse.qmd": {
+    "index-muse.html": "4fcd4401"
+  },
+  "index/pass/index-pass.qmd": {
+    "index-pass.html": "8b1cc361"
+  },
+  "index/style/index-style.qmd": {
+    "index-style.html": "2ef5c85d"
+  },
+  "index/specialized-generalists/index-specialized-generalists.qmd": {
+    "index-specialized-generalists.html": "52d5b80e"
+  },
+  "index/specialists/index-specialists.qmd": {
+    "index-specialists.html": "f593e1c1"
+  },
+  "index/generalists/index-generalists.qmd": {
+    "index-generalists.html": "d08fc790"
+  },
+  "author/author-author.qmd": {
+    "author-author.html": "493910de"
+  },
+  "ai/learning/learning.qmd": {
+    "learning.html": "dfb18ee8"
+  },
+  "ai/affective/affective.qmd": {
+    "affective.html": "cab806a6"
+  },
+  "ai/general/general.qmd": {
+    "general.html": "f38765a6"
+  },
+  "ai/knowledge/knowledge.qmd": {
+    "knowledge.html": "1365ddbd"
+  },
+  "ai/language/language.qmd": {
+    "language.html": "434409c1"
+  },
+  "ai/perception/perception.qmd": {
+    "perception.html": "a66feb50"
+  },
+  "ai/reasoning/reasoning.qmd": {
+    "reasoning.html": "13fffa13"
   }
 }

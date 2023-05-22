@@ -1,0 +1,11 @@
+::: {.callout-note collapse="true"} 
+# one ping only
+
+::: panel-tabset
+{{< include /index/ping/index-ping-navigation.qmd >}}
+{{< include /index/ping/index-ping-physics.qmd >}}
+{{< include /index/ping/index-ping-math.qmd >}}
+{{< include /index/ping/index-ping-ai.qmd >}}
+:::
+
+:::

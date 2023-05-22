@@ -1,0 +1,6 @@
+---
+title: "author"
+---
+<p>
+<center>![](/author/kuzco.png){fig-align="center" width="66%"}</center>
+<p>

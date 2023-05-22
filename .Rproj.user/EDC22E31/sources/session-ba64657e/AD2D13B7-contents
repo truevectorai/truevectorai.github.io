@@ -1,0 +1,4 @@
+.quarto-title > h1.title {
+  opacity: 0 !important;
+  margin-top: -1.5em !important;
+}
