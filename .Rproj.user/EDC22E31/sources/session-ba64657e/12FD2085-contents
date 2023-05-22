@@ -7,6 +7,9 @@ bibliography: references.json
   opacity: 0 !important;
   margin-top: -1.5em !important;
 }
+.quarto-page-breadcrumbs {
+   display: none !important;
+}
 </style>
 
 {{< include ./index/index-index.qmd >}}
