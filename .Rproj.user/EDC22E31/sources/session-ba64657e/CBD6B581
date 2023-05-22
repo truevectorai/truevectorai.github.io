@@ -8,11 +8,11 @@
     "dirty": false,
     "created": 1684627788446.0,
     "source_on_save": false,
-    "relative_order": 5,
+    "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "16,22",
+        "cursorPosition": "22,0",
         "scrollLine": "7"
     },
     "folds": "",

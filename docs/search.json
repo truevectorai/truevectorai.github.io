@@ -26,5 +26,12 @@
     "title": "knowledge",
     "section": "",
     "text": "]\n\n In what the paywalled citation references and appears to be a republishing of his 1980 paper of the same name in the Stanford archives, Edward Feigenbaum coins the term Knowledge Engineering, and discusses symbolic computation and inference, and makes the distinctions about the facts vs the heuristics of a domain, and that the application of expert-rules, or as he aptly shares from George Polya, “the art of good guessing” are what constitute the rules of good practice, judgment, and expertise.\n(FEIGENBAUM 1984)\n\n\n\n\nReferences\n\nFEIGENBAUM, EDWARD A. 1984. “Knowledge Engineering.” Annals of the New York Academy of Sciences 426 (1 Computer Cult): 91–107. https://doi.org/10.1111/j.1749-6632.1984.tb16513.x."
+  },
+  {
+    "objectID": "affective.html",
+    "href": "affective.html",
+    "title": "affective",
+    "section": "",
+    "text": "Rosalind Picard introduced the term in her 1995 paper Affective Computing (and followed up with the cited 2000 book (Picard 2000) by the same name) in which she postulated in the Abstract that\n\nComputers are beginning to acquire the ability to express and recognize affect, and may soon be given the ability to “have emotions.” The essential role of emotion in both human cognition and perception, as demonstrated by recent neurological studies, indicates that affective computers should not only provide better performance in assisting humans, but also might enhance computers’ abilities to make decisions. This paper presents and discusses key issues in “affective computing,” computing that relates to, arises from, or influences emotions. Models are suggested for computer recognition of human emotion, and new applications are presented for computer-assisted learning, perceptual information retrieval, arts and entertainment, and human health and interaction. Affective computing, coupled with new wearable computers, will also provide the ability to gather new data necessary for advances in emotion and cognition theory.\n\n\n\n\n\nReferences\n\nPicard, Rosalind W. 2000. “Affective Computing.” The MIT Press. https://doi.org/10.7551/mitpress/1140.001.0001."
   }
 ]

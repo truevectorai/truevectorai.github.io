@@ -79,7 +79,7 @@ The astute reader will notice the occasional academic *faux pas* of linking to W
 ::: panel-tabset
 ## navigation
 
-The speed and direction of a target relative to a reference point (usually the Geographic \[true\] North Pole) is called its *true vector*, and is where this site drew the inspiration for its name, though from the similar application in aviation. To calcuate this an observer generally measures the velocity of the target relative to the observer and then performs a translation of that vector to the reference point.
+The speed and direction of a target relative to a reference point (usually the Geographic [true] North Pole) is called its *true vector*, and is where this site drew the inspiration for its name, though from the similar application in aviation. To calcuate this an observer generally measures the velocity of the target relative to the observer and then performs a translation of that vector to the reference point.
 
 ::: {style="background-color:white"}
 ![](navigation.png){fig-align="center" width="50%"}
@@ -87,7 +87,7 @@ The speed and direction of a target relative to a reference point (usually the G
 
 ## physics
 
-A true vector or radius vector reverses sign if the coordinate axes are reversed. Examples of polar vectors include r, the velocity vector v, momentum p, and force F.
+A *true vector* or radius vector reverses sign if the coordinate axes are reversed. Examples of polar vectors include r, the velocity vector v, momentum p, and force F.
 
 ::: {style="background-color:white"}
 ![](polar-physics.png){fig-align="center" width="50%"}
@@ -95,7 +95,7 @@ A true vector or radius vector reverses sign if the coordinate axes are reversed
 
 ## math
 
-A true vector or polar vector is a representation of a vector as a magnitude (length) and angle, which is equivalent to specifying its endpoints in polar coordinates.
+A *true vector* or polar vector is a representation of a vector as a magnitude (length) and angle, which is equivalent to specifying its endpoints in polar coordinates.
 
 ::: {style="background-color:white"}
 ![](polar-math.svg){fig-align="center" width="50%"}
